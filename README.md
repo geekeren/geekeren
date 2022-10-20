@@ -1,7 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=geekeren&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-Working on:
+Now Working on:
 
-- Low code platform development
+- Low Code/No Code platform development
+
+And experted at
+- FullStack Development(Web Frontend and Backend)
 - CloudNative infrastructure
 - Miscroservice developement and deployment
 
