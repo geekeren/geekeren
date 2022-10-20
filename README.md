@@ -3,7 +3,7 @@ Now Working on:
 
 - Low Code/No Code platform development
 
-And experted at
+And be expert in
 - FullStack Development(Web Frontend and Backend)
 - CloudNative infrastructure
 - Miscroservice developement and deployment
